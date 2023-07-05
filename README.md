@@ -1,2 +1,2 @@
-# Sales-Product-Data
-HT-1 Product Analysis
+# Опис дашборду https://public.tableau.com/app/profile/marcelo.has/viz/EyeClinicDashboard-ProductsConversion/ClinicalProducts 
+Dashboard : Eye Clinic Dashboard
